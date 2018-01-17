@@ -1,0 +1,229 @@
+{
+    "id": "Vietnam",
+    "back": "QUAY LẠI",
+    "intro": {
+        "intro1Slogan": "Ứng dụng giúp bạn đặt lịch và khám bệnh một cách đơn giản, nhanh chóng, ở bất cứ nơi đâu.",
+        "intro2Title": "PHÒNG KHÁM & BÁC SỸ",
+        "intro2Slogan": "Mạng lưới phòng khám và bác sỹ của chúng tôi đa dạng, chuyên môn tốt và uy tín trên toàn quốc.",
+        "intro3Title": "DỄ DÀNG ĐẶT LỊCH",
+        "intro3Slogan": "Bạn có thể đặt lịch khám online, offline với các bác sỹ của chúng tôi rất linh động theo thời gian của bạn."
+    },
+    "login": {
+        "lgPlaceholder1": "Số điện thoại",
+        "lgPlaceholder2": "Mật khẩu",
+        "lgPlaceholder3": "Bạn quên?",
+        "lgLogin": "ĐĂNG NHẬP",
+        "lgLoginFB": "Đăng nhập qua Facebook",
+        "lgRegister": "Đăng ký tài khoản",
+        "lgRegisterFB": "Đăng ký qua Facebook"                
+        
+    },
+    "loginFB":{
+        "info1": "muốn truy cập hồ sơ công khai của bạn và danh sách bạn bè.",
+        "info2":"Ứng dụng sẽ truy cập một số thông tin công khai bao gồm: tên,ảnh đại diện, độ tuổi, giới tính, ngôn ngữ, quốc gia và các thông tin công khai khác.",
+        "button": "ĐỒNG Ý"
+    },
+    "Register": {
+        "header": "Đăng ký tài khoản",
+        "rgPlaceholder1": "Nhập số điện thoại",
+        "rgPlaceholder2": "Mật khẩu ",
+        "rgPlaceholder3": "Xác nhận mật khẩu",
+        "rgPlaceholder4": "Mã giới thiệu",
+        "rgCheckbox1": "Đồng ý với",
+        "rgCheckbox2": "Điều khoản sử dụng",
+        "rgbutton": "ĐĂNG KÝ"
+    },
+    "mainScreen":{
+        "searchPH":"Triệu chứng của bạn là gì?"
+    },
+    "lvSearchScreen":{
+        "searchPH":"Triệu chứng của bạn là gì?",
+        "heading1":"Tất cả",
+        "heading2":"Bác sĩ",
+        "heading3":"Phòng khám",
+        "titleButton":"Bản đồ",
+        "list" : "D.Sách"
+    },
+    "sideBar":{
+        "item1":"Danh sách quan tâm",
+        "item2":"Hẹn khám",
+        "item3":"Thanh toán",
+        "item4":"Tài khoản",
+        "item5":"Hồ sơ y tế cá nhân",
+        "logout":"Đăng xuất",
+        "contact":"Liên hệ",
+        "terms":"Điều khoản"
+
+    },
+    "appointmentList":{
+        "Monday":"Thứ 2",
+        "Tuesday":"Thứ 3",
+        "Wednesday":"Thứ 4",
+        "Thursday":"Thứ 5",
+        "Friday":"Thú 6",
+        "Saturday":"Thứ 7",
+        "Sunday":"CHỦ NHẬT"
+
+    },
+    "appointment":{
+        "header":"Hẹn khám ",
+        "heading1":"Sắp tới",
+        "heading2":"Lịch sử"
+    },
+    "appointmentPastItem":{
+        "done": "Đã khám",
+        "cancelled": "Huỷ khám",
+        "wait": "Chờ khám",
+        "donePay": "Đã thanh toán",
+        "cancelledPay": "Huỷ bỏ",
+        "waitPay": "Đang chờ",
+        "canceledExamination":"Đã hủy khám"
+    },
+    "AppointmentFutureItem":{
+        "cancelled": "Huỷ khám",
+        "timeleft": "Còn:",
+        "day": "Ngày",
+        "hour": "giờ",
+        "minute": "phút",
+        "consultantOnline": "Tư vấn\nonline",
+        "consultantDirect": "Khám\ntrực tiếp",
+        "letGo": "Đến giờ rồi, đi thôi"
+    },
+    "accountBalance":{
+        "header": "Tài khoản của bạn",
+        "label": "Số dư tài khoản (VND)",
+        "log": "Nạp tiền tài khoản",
+        "tablabel1": "Lịch sử giao dịch",
+        "tablabel2": "Nạp tiền",
+        "waitPay": "Chờ thanh toán",
+        "hour":"tiếng trước"
+    },
+    "AccountBalanceDeposit":{
+        "title": "Thanh toán bằng thẻ ATM trong nước",
+        "moneys": "Số tiền cần nạp",
+        "recharge": "NẠP TIỀN"
+    },
+    "terms":{
+        "header": "Điều khoản sử dụng"
+    },
+    "accountProfile":{
+        "header": "Tài khoản của bạn",
+        "name": "Phan Hải",
+        "namePH": "Họ và tên",
+        "phonePH": "Số điện thoại",
+        "emailPH": "Email",
+        "prehistoricPatient": "Tiền sử bệnh",
+        "displayLanguage": "Ngôn ngữ hiển thị",
+        "button": "LƯU",
+        "dob": "Sinh nhật",
+        "sex": "Giới tính",
+        "address": "Địa chỉ",
+        "male": "Nam", 
+        "female":  "Nữ"
+    },
+    "DetailClinic":{
+        "viewMore": "Xem thêm",
+        "collapse": "Thu gọn",
+        "doctorClinic": "Bác sỹ phòng khám",
+        "listHided": "Danh sách đã bị ẩn"
+    },
+    "ClinicDoctorBaseItem":{
+        "selectHour":"CHỌN\nGIỜ",
+        "noInfomation": "Không có thông tin"
+    },
+    "DetailDoctor":{
+        "rank": "Xếp hạng",
+        "touchStar": "Chạm vào một ngôi sao để xếp hạng",
+        "phComment": "Nhận xét (tuỳ chọn)",
+        "service": "Dịch vụ:",
+        "hour": "Giờ hẹn:",
+        "dateTime": "Ngày tháng:",
+        "consultantFee": "Phí tư vấn:",
+        "payAppointment": "THANH TOÁN LỊCH HẸN",
+        "complete": "Hoàn thành",
+        "paySuccess": "Thanh toán thành công",
+        "viewAppointment": "XEM LỊCH HẸN",
+        "turnExamination": "Lượt khám",
+        "saveFavouritePlace": "Lưu địa chỉ yêu thích",
+        "expand": "Mở rộng",
+        "collapse": "Thu gọn",
+        "viewAbove": "Xem trên",
+        "ecomedic": "Ecomedic",
+        "consultantOnline": "Tư vấn Online",
+        "consultantDirect": "Khám trực tiếp",
+        "today": "Hôm nay",
+        "tomorrow": "Ngày mai",
+        "send": "GỬI",
+        "confirm":"Bạn có chắc chắn muốn huỷ lịch hẹn này không ?",
+        "buttonNo":"Không",
+        "buttonYes": "Huỷ ngay"
+    },
+    "AdvanceSearch":{
+        "label1": "Chuyên khoa",
+        "label2": "Khoảng cách tìm kiếm",
+        "label3": "Thời gian khám",
+        "today": "Hôm nay",
+        "tomorrow": "Ngày mai",
+        "timeExamination": "Khung giờ khám",
+        "button": "Tìm kiếm"
+    },
+    "MapCallout":{
+        "from":" Từ ",
+        "chooseDay":"CHỌN\nGIỜ"
+    },
+    "joinTheMeeting" : "Tham gia cuộc họp",
+    "maximumIs" : "Thời gian tối đa là ",
+    "andWillBeSave" : " và sẽ được lưu lại",
+    "waiting": "Đang đợi",
+    "checkout": "THANH TOÁN",
+    "result": "Kết quả",
+    "headerFav": "Danh sách quan tâm",
+    "isShare": "Đã chia sẻ bệnh án",
+    "cancel": "Hủy",
+    "share": "Chia sẻ",
+    "shareMedical": "Chia sẻ bệnh án",
+    "deny": "Từ chối",
+    "from": "Từ",
+    "personalMedical":"Hồ sơ y tế cá nhân",
+    "medicalRecord" :"Hồ sơ y tế",
+    "survivalindex" : "Chỉ số sinh tồn",
+    "heartbeat" : "Nhịp tim",
+    "blood" : "Huyết áp",
+    "breath" : "Nhịp thở",
+    "per" : "lần/phút",
+    "Temperature" : "Nhiệt độ",
+    "individual" : "CHỈ SỐ SINH TỒN",
+    "other" : "KẾT QUẢ KHÁC",
+    "basic" : "Thông tin y tế cơ bản",
+    "height" : "Chiều cao",
+    "weight" : "Cân nặng",
+    "bloodgroup":"Nhóm máu",
+    "bloodpresure" : "Huyết áp TB",
+    "history" : "Lịch sử khám",
+    "storyItem1" : "Bạn có bị dị ứng gì không?",
+    "storyItem2" : "Bệnh mãn tính",
+    "storyItem3" : "Đã từng phẫu thuật?",
+    "storyItem4" : "Thông tin khác",
+    "storyPlaceHolder1" : "Dị ứng tôm, cua, hải sản",
+    "storyPlaceHolder2" : "Bị viêm họng mãn tính",
+    "storyPlaceHolder3" : "Mổ nội soi dạ dày tháng 8/2012",
+    "storyPlaceHolder4" : "Nhập thông tin ở đây",
+    "detail" : "Xem chi tiết",
+    "edit" : "Sửa",
+    "receiveCode" : "Nhận mã xác nhận",
+    "receiveCodeIn" : "Nhận mã xác nhận trong ",
+    "resendConfirmCode" : "Gửi lại mã xác nhận",
+    "confirmCode" : "Mã xác nhận",
+    "loginVia" : "Đăng nhập qua",
+    "register" : "Đăng ký tài khoản",
+    "phoneRequired": "Số điện thoại là bắt buộc",
+    "pleaseFillPhone": "Vui lòng điền số điện thoại",
+    "pwRequired": "Mật khẩu là yêu cầu",
+    "pleaseFillPw": "Vui lòng điền mật khẩu",
+    "rePwRequired": "Xác nhận mật khẩu là yêu cầu",
+    "pleaseFillRePw": "Vui lòng điền mật khẩu xác nhận",
+    "rePwWrong": "Xác nhận mật khẩu không khớp",
+    "pleaseFillRightPw": "Vui lòng điền lại mật khẩu xác nhận",
+    "agreeTerm": "Bạn có đồng ý với điều khoản của chúng tôi",
+    "pleaseAgreeTerm": "Vui lòng đọc điều khoản của chúng tôi",
+}
